@@ -1,4 +1,4 @@
-[![An image of @Mohit-Chaudhari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitchaudhari)](https://holopin.io/@@mohitchaudhari)
+<!--[![An image of @Mohit-Chaudhari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitchaudhari)](https://holopin.io/@@mohitchaudhari)-->
 
 <h2 align="center">Hi 👋, I'm Mohit Chaudhari</h2>
 
@@ -15,6 +15,8 @@
 --- 
 
 ### 🔥 My Stats 
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Mohit-Chaudhari)
+<br/>
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=Mohit-Chaudhari&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Mohit-Chaudhari&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Chaudhari&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/Mohit-Chaudhari/github-stats">
